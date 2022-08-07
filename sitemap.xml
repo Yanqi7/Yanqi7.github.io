@@ -119,6 +119,13 @@
 
   
   <url>
+    <loc>https://yanqi7.github.io/tags/About-Me/</loc>
+    <lastmod>2022-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yanqi7.github.io/tags/encrypt/</loc>
     <lastmod>2022-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -153,14 +160,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://yanqi7.github.io/tags/About-Me/</loc>
+    <loc>https://yanqi7.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2022-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://yanqi7.github.io/categories/Example/</loc>
@@ -178,13 +185,6 @@
   
   <url>
     <loc>https://yanqi7.github.io/categories/%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2022-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yanqi7.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2022-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

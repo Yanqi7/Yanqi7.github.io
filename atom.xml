@@ -6,7 +6,7 @@
   <link href="https://yanqi7.github.io/atom.xml" rel="self"/>
   
   <link href="https://yanqi7.github.io/"/>
-  <updated>2022-08-07T09:04:32.716Z</updated>
+  <updated>2022-08-07T09:09:04.252Z</updated>
   <id>https://yanqi7.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yanqi7.github.io/2022/08/07/Link-Find/"/>
     <id>https://yanqi7.github.io/2022/08/07/Link-Find/</id>
     <published>2022-08-07T08:48:14.000Z</published>
-    <updated>2022-08-07T09:04:32.716Z</updated>
+    <updated>2022-08-07T09:09:04.252Z</updated>
     
     <content type="html"><![CDATA[<h1 id="关于我的信息"><a href="#关于我的信息" class="headerlink" title="关于我的信息"></a>关于我的信息</h1><h4 id="你可以在各种平台找到我："><a href="#你可以在各种平台找到我：" class="headerlink" title="你可以在各种平台找到我："></a>你可以在各种平台找到我：</h4><p>bilibili：<a href="https://space.bilibili.com/317486111">https://space.bilibili.com/317486111</a></p><p>CSDN：<a href="https://blog.csdn.net/weixin_56170314">https://blog.csdn.net/weixin_56170314</a></p><p>GitHub：<a href="https://github.com/Yanqi7">https://github.com/Yanqi7</a></p><p>Gitee：<a href="https://gitee.com/yanqi7">https://gitee.com/yanqi7</a></p><img src="http://192.168.1.106:8081/i/2022/08/07/62ef7f1ea7e97.jpeg" alt="77-椰汁.jpeg" style="zoom:30%;" /><p><strong>欢迎访问我的个人博客：<a href="https://yanqi7.github.io/">https://yanqi7.github.io/</a>     或者 传送门：<a href="https://yanqi7.github.io/Navigation/">https://yanqi7.github.io/Navigation/</a> （里面包含了我个人用springboot搭建的web站点，不过花生壳的DDNS不好用，还是推荐访问GitHub的个人主页）</strong></p>]]></content>
     
@@ -33,6 +33,10 @@
     
     
     
+    <category term="关于我" scheme="https://yanqi7.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    
+    
+    <category term="About Me" scheme="https://yanqi7.github.io/tags/About-Me/"/>
     
   </entry>
   
